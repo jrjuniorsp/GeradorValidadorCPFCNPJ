@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gerador e Validador de CPF/CNPJ</string>
+    <string name="gerador_cnpj">Gerador CNPJ</string>
+    <string name="gerador_cpf">Gerador CPF</string>
+    <string name="validador_cnpj">Validador CNPJ</string>
+    <string name="validador_cpf">Validador CPF</string>
+    <string name="gerar_cpf">Gerar CPF</string>
+    <string name="ponto_barra">Formatação (Pontos / Barra)</string>
+    <string name="validar_cpf">Validar CPF</string>
+    <string name="digitar_cpf">Digite o CPF sem pontuação</string>
+    <string name="btn_validar">Validar</string>
+    <string name="cpf_gerado">CPF Gerado</string>
+    <string name="cpf_valido">CPF Válido</string>
+    <string name="cpf_invalido">CPF Inválido</string>
+    <string name="gerar_cnpj">Gerar CNPJ</string>
+    <string name="cnpj_gerado">CNPJ Gerado</string>
+    <string name="validar_cnpj">Validar CNPJ</string>
+    <string name="digitar_cnpj">Digite o CNPJ sem pontuação</string>
+    <string name="cnpj_valido">CNPJ Válido</string>
+    <string name="cnpj_invalido">CNPJ Inválido</string>
+    <string name="sobre">Sobre</string>
+    <string name="sobre_titulo">Sobre o aplicativo</string>
+    <string name="sobre_texto">
+        O Gerador e Validador de CPF/CNPJ versão 0.1 é um aplicativo com o objetivo de ajudar 
+        desenvolvedores de software que precisam gerar e validar CPF e CNPJ nos seus aplicativos. 
+        Esse programa <i><u>NÃO</u></i> faz uma validação com o SERASA.
+    </string>
+    <string name="copyright">Esse aplicativo é desenvolvimento pela JR Mobile - http://www.jrmobile.com</string>
+    <string name="splash_screen_text">Splash Screen</string>
+
+</resources>

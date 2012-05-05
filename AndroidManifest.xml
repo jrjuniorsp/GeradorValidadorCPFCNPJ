@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jrmobile.activities"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="7" />
+
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+        <activity
+            android:name=".GeradorValidadorCPFCNPJActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="com.jrmobile.activities.GeradorValidadorCPFCNPJ" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="GeradorCPFActivity"
+            android:label="@string/app_name" android:finishOnTaskLaunch="true">
+        </activity>
+        <activity
+            android:name=".ValidadorCPFActivity"
+            android:label="@string/app_name" android:finishOnTaskLaunch="true">
+        </activity>
+        <activity
+            android:name="GeradorCNPJActivity"
+            android:label="@string/app_name" android:finishOnTaskLaunch="true">
+        </activity>
+        <activity
+            android:name="ValidadorCNPJActivity"
+            android:label="@string/app_name" android:finishOnTaskLaunch="true">
+        </activity>
+        <activity
+            android:name="SobreActivity"
+            android:label="@string/sobre_titulo"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+        <activity
+            android:name="SplashScreenActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
