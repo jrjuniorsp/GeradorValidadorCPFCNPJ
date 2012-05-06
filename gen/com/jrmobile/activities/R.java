@@ -13,6 +13,7 @@ public final class R {
     public static final class color {
         public static final int background=0x7f040001;
         public static final int background_panel=0x7f040003;
+        public static final int background_splash_screen=0x7f040006;
         public static final int border_color=0x7f040002;
         public static final int font_color=0x7f040004;
         public static final int input_color=0x7f040005;

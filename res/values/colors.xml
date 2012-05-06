@@ -6,5 +6,6 @@
     <color name="background_panel">#feffff</color>
     <color name="font_color">#000000</color>
     <color name="input_color">#f4f4f4</color>
+    <color name="background_splash_screen">#636563</color>
     
 </resources>

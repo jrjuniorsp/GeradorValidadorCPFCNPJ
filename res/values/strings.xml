@@ -22,11 +22,11 @@
     <string name="sobre">Sobre</string>
     <string name="sobre_titulo">Sobre o aplicativo</string>
     <string name="sobre_texto">
-        O Gerador e Validador de CPF/CNPJ versão 0.1 é um aplicativo com o objetivo de ajudar 
+        O Gerador e Validador de CPF/CNPJ versão 1.0 é um aplicativo com o objetivo de ajudar 
         desenvolvedores de software que precisam gerar e validar CPF e CNPJ nos seus aplicativos. 
         Esse programa <i><u>NÃO</u></i> faz uma validação com o SERASA.
     </string>
-    <string name="copyright">Esse aplicativo é desenvolvimento pela JR Mobile - http://www.jrmobile.com</string>
+    <string name="copyright">Esse aplicativo é desenvolvimento pela JR Mobile - http://www.jairrillo.com</string>
     <string name="splash_screen_text">Splash Screen</string>
 
 </resources>
